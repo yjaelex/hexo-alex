@@ -17,7 +17,7 @@ widgets:
 ## provide seven widgets:search,category,tagcloud,tag,weibo,recent_comments,links
 ## 提供7个插件：搜索，分类，标签，标签云，微博秀，最新评论，友情链接。
 
-duoshuo_enable: false	##不想用，改为false即可
+duoshuo_enable: true	##不想用，改为false即可
 duoshuo_shortname:      ##你的多说shortname，上面为true，这个才会起效果
 ##duoshuo comments's shortname
 ##多说评论的shortname
