@@ -16,6 +16,13 @@
 		<div class="alignleft">
 		<a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
 		</div>
+		
+		<div class="comments-count">
+			
+			<a href="<%- config.root %><%- item.path %>#comment" class="ds-thread-count icon-comment" data-thread-key="<%- item.path %>" data-count-type="comments"></a>
+			
+		</div>
+		
         <div class="clearfix"></div>
     </footer>
   </div>

@@ -7,12 +7,12 @@ title: 蓝天和白云的博客
 subtitle: 一个计算机图形爱好者
 description: 计算机图形爱好者博客
 author: Alex
-language:
-timezone:
+language: zh-CN
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://yjaelex.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: concise
+#theme: jacman
+#theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
