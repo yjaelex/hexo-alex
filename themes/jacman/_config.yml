@@ -39,6 +39,7 @@ theme_color:
 # 代码高亮主题
 # available: default | night
 highlight_theme: night
+line_number: true
 
 #### index post is expanding or not 
 index:
